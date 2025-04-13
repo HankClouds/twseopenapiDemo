@@ -1,4 +1,4 @@
-package com.hung.myapplication
+package com.hung.myapplication.main
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.Toast
 import androidx.fragment.app.activityViewModels
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.hung.myapplication.main.MainViewModel
+import com.hung.myapplication.R
 
 class StockSortBottomSheetDialogFragment: BottomSheetDialogFragment() {
 
