@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android考題</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_desc">依股票代號降序</string>
+    <string name="action_asc">依股票代號升序</string>
+
+</resources>
